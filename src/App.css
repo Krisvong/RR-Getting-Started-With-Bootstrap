@@ -40,3 +40,20 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+Form {
+  width: 400px;
+  height: 500px;
+}
+
+input, select {
+  text-align: center;
+}
+
